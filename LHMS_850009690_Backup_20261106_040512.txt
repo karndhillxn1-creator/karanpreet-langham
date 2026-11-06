@@ -1,0 +1,9 @@
+LANGHAM HOTEL MANAGEMENT SYSTEM
+Saved at: 2026-11-06 04:03:32
+
+ROOMS:
+Room=1|Type=Single|Capacity=1|Rate=100.00|Available=True
+
+ALLOCATIONS:
+
+============================================================
